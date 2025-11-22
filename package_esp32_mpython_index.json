@@ -452,10 +452,10 @@
           "architecture": "esp32",
           "version": "3.2.0",
           "category": "labplus",
-          "url": "https://github.com/espressif/arduino-esp32/releases/download/3.2.0/esp32-3.2.0.zip",
-          "archiveFileName": "esp32-3.2.0.zip",
-          "checksum": "SHA-256:d38b16fef6e519fc0d19bc5af0b39cdbed7dfc2ce69214c1971ded0e61ecd911",
-          "size": "25447136",
+          "url": "https://github.com/labplus-cn/arduino-esp32/releases/download/3.2.0/arduino-esp32_3.2.0.zip",
+          "archiveFileName": "arduino-esp32_3.2.0.zip",
+          "checksum": "SHA-256:sha256:f94d1edd0f065f01805d93142fa85483108872c8dee664cd37612186fb2bb48c",
+          "size": "32344507",
           "help": {
             "online": ""
           },
