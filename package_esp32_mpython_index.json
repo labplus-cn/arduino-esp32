@@ -12,7 +12,7 @@
         {
           "name": "mPython",
           "architecture": "esp32",
-          "version": "3.3.4-cn",
+          "version": "3.3.4",
           "category": "ESP32",
           "url": "https://github.com/labplus-cn/arduino-esp32/releases/download/v3.3.4/arduino-esp32_3.3.4.zip",
           "archiveFileName": "arduino-esp32_3.3.4.zip",
@@ -31,47 +31,47 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "esp32-arduino-libs",
               "version": "idf-release_v5.5-8410210c-v2-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "esp-x32",
               "version": "2507-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "xtensa-esp-elf-gdb",
               "version": "16.3_20250913-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "esp-rv32",
               "version": "2507-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "riscv32-esp-elf-gdb",
               "version": "16.3_20250913-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "openocd-esp32",
               "version": "v0.12.0-esp32-20250707-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "esptool_py",
               "version": "5.1.0-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "mkspiffs",
               "version": "0.2.3-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "mklittlefs",
               "version": "4.0.2-db0513a-cn"
             },
@@ -85,7 +85,7 @@
         {
           "name": "mPython",
           "architecture": "esp32",
-          "version": "3.3.3-cn",
+          "version": "3.3.3",
           "category": "ESP32",
           "url": "https://github.com/labplus-cn/arduino-esp32/releases/download/v3.3.3/arduino-esp32_3.3.3.zip",
           "archiveFileName": "arduino-esp32_3.3.3.zip",
@@ -104,47 +104,47 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "esp32-arduino-libs",
               "version": "idf-release_v5.5-f1a1df9b-v3-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "esp-x32",
               "version": "2507-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "xtensa-esp-elf-gdb",
               "version": "16.3_20250913-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "esp-rv32",
               "version": "2507-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "riscv32-esp-elf-gdb",
               "version": "16.3_20250913-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "openocd-esp32",
               "version": "v0.12.0-esp32-20250707-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "esptool_py",
               "version": "5.1.0-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "mkspiffs",
               "version": "0.2.3-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "mklittlefs",
               "version": "4.0.2-db0513a-cn"
             },
@@ -158,7 +158,7 @@
         {
           "name": "mPython",
           "architecture": "esp32",
-          "version": "3.3.2-cn",
+          "version": "3.2.0",
           "category": "ESP32",
           "url": "https://github.com/labplus-cn/arduino-esp32/releases/download/v3.2.0/arduino-esp32_3.2.0.zip",
           "archiveFileName": "arduino-esp32_3.2.0.zip",
@@ -177,47 +177,47 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "esp32-arduino-libs",
               "version": "idf-release_v5.5-07e9bf49-v1-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "esp-x32",
               "version": "2507-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "xtensa-esp-elf-gdb",
               "version": "16.3_20250913-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "esp-rv32",
               "version": "2507-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "riscv32-esp-elf-gdb",
               "version": "16.3_20250913-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "openocd-esp32",
               "version": "v0.12.0-esp32-20250707-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "esptool_py",
               "version": "5.1.0-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "mkspiffs",
               "version": "0.2.3-cn"
             },
             {
-              "packager": "esp32",
+              "packager": "mpython",
               "name": "mklittlefs",
               "version": "4.0.2-db0513a-cn"
             },
