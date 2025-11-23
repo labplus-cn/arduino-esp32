@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "mpython",
+      "name": "m5stack",
       "maintainer": "M5Stack official",
       "websiteURL": "https://github.com/m5stack",
       "email": " support@m5stack.com",
