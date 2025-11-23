@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "mpython",
-      "maintainer": "Espressif Systems",
+      "maintainer": "labplus mpython team",
       "websiteURL": "https://github.com/labplus-cn/arduino-esp32",
       "email": "jiangzhaohui@labplus.cn",
       "help": {
