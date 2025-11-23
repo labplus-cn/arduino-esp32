@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "labplus",
+          "name": "mPython",
           "architecture": "esp32",
           "version": "3.3.4-cn",
           "category": "ESP32",
@@ -83,7 +83,7 @@
           ]
         },
         {
-          "name": "labplus",
+          "name": "mPython",
           "architecture": "esp32",
           "version": "3.3.3-cn",
           "category": "ESP32",
@@ -156,7 +156,7 @@
           ]
         },
         {
-          "name": "labplus",
+          "name": "mPython",
           "architecture": "esp32",
           "version": "3.3.2-cn",
           "category": "ESP32",
