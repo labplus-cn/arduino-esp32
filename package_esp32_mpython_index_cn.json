@@ -16,14 +16,14 @@
           "category": "ESP32",
           "url": "https://github.com/labplus-cn/arduino-esp32/releases/download/v3.3.4/arduino-esp32_3.3.4.zip",
           "archiveFileName": "arduino-esp32_3.3.4.zip",
-          "checksum": "SHA-256:20601965a61b48ab8ea9b7ee1927e493db60fa20afd6d77edb6c44b66bde4018",
-          "size": "20793850",
+          "checksum": "SHA-256:a2250f2ad87624fb0f33a9b328c30c8f30f19cf6b0e7f2e89cd90355f911e9c6",
+          "size": "20793859",
           "help": {
             "online": ""
           },
           "boards": [
             {
-              "name": "mPython v3"
+              "name": "mPython V3"
             },
             {
               "name": "labplus Ledong V2"
@@ -89,14 +89,14 @@
           "category": "ESP32",
           "url": "https://github.com/labplus-cn/arduino-esp32/releases/download/v3.3.3/arduino-esp32_3.3.3.zip",
           "archiveFileName": "arduino-esp32_3.3.3.zip",
-          "checksum": "SHA-256:646f59f0ca707be5d4d8acf542cdf1584eabba179c3b996fb069871c1c37c5fc",
-          "size": "20761698",
+          "checksum": "SHA-256:7735e1534b04a9fba925d920ab7942b50ac9e855678acf710574a5fa6950c0b3",
+          "size": "20761707",
           "help": {
             "online": ""
           },
           "boards": [
             {
-              "name": "mPython v3"
+              "name": "mPython V3"
             },
             {
               "name": "labplus Ledong V2"
@@ -162,14 +162,14 @@
           "category": "ESP32",
           "url": "https://github.com/labplus-cn/arduino-esp32/releases/download/v3.2.0/arduino-esp32_3.2.0.zip",
           "archiveFileName": "arduino-esp32_3.2.0.zip",
-          "checksum": "SHA-256:98c29cc3a9c838f205aefd759f4c5dcd9c7a9221702e282b76cb46ec4d6382cc",
-          "size": "20584365",
+          "checksum": "SHA-256:b58b4cabe9ade568249f88d29bfbee03d5b4111dc27df72a8cb3b7fa926a191d",
+          "size": "20584377",
           "help": {
             "online": ""
           },
           "boards": [
             {
-              "name": "mPython v3"
+              "name": "mPython V3"
             },
             {
               "name": "labplus Ledong V2"
