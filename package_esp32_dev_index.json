@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "labplus",
+      "name": "m5stack",
       "maintainer": "M5Stack official",
       "websiteURL": "https://github.com/m5stack",
       "email": " support@m5stack.com",
