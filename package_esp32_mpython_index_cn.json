@@ -16,8 +16,8 @@
           "category": "ESP32",
           "url": "https://github.com/labplus-cn/arduino-esp32/releases/download/v3.3.4/arduino-esp32_3.3.4.zip",
           "archiveFileName": "arduino-esp32_3.3.4.zip",
-          "checksum": "SHA-256:1df51ae8f3a7db8b4eab033a9e1391a1bdafca1d353b9d38f9072172e617ad32",
-          "size": "20793849",
+          "checksum": "SHA-256:20601965a61b48ab8ea9b7ee1927e493db60fa20afd6d77edb6c44b66bde4018",
+          "size": "20793850",
           "help": {
             "online": ""
           },
@@ -89,8 +89,8 @@
           "category": "ESP32",
           "url": "https://github.com/labplus-cn/arduino-esp32/releases/download/v3.3.3/arduino-esp32_3.3.3.zip",
           "archiveFileName": "arduino-esp32_3.3.3.zip",
-          "checksum": "SHA-256:fc82f7eb636bc06c40550cd30562ca6330ed8bcac152af0e022e966b25c04201",
-          "size": "20761697",
+          "checksum": "SHA-256:646f59f0ca707be5d4d8acf542cdf1584eabba179c3b996fb069871c1c37c5fc",
+          "size": "20761698",
           "help": {
             "online": ""
           },
@@ -162,7 +162,7 @@
           "category": "ESP32",
           "url": "https://github.com/labplus-cn/arduino-esp32/releases/download/v3.2.0/arduino-esp32_3.2.0.zip",
           "archiveFileName": "arduino-esp32_3.2.0.zip",
-          "checksum": "SHA-256:b8a4f30dc89454777224f5f668b303677c5dc85eeeaab36cfe7b948efacd0199",
+          "checksum": "SHA-256:98c29cc3a9c838f205aefd759f4c5dcd9c7a9221702e282b76cb46ec4d6382cc",
           "size": "20584365",
           "help": {
             "online": ""
