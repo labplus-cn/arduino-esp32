@@ -10,20 +10,20 @@
       },
       "platforms": [
         {
-          "name": "labplus",
+          "name": "mPython",
           "architecture": "esp32",
-          "version": "3.2.0",
-          "category": "labplus",
-          "url": "https://github.com/labplus-cn/arduino-esp32/releases/download/3.2.0/arduino-esp32_3.2.0.zip",
-          "archiveFileName": "arduino-esp32_3.2.0.zip",
-          "checksum": "SHA-256:637bf247c70f18f7ce79caa5d2c4857ebd943e86088dd5477d4d87247974d4ae",
-          "size": "32411631",
+          "version": "3.3.4-cn",
+          "category": "ESP32",
+          "url": "https://github.com/labplus-cn/arduino-esp32/releases/download/v3.3.4/arduino-esp32_3.3.4.zip",
+          "archiveFileName": "arduino-esp32_3.3.4.zip",
+          "checksum": "SHA-256:1df51ae8f3a7db8b4eab033a9e1391a1bdafca1d353b9d38f9072172e617ad32",
+          "size": "20793849",
           "help": {
             "online": ""
           },
           "boards": [
             {
-              "name": "mpython V3"
+              "name": "mPython v3"
             },
             {
               "name": "labplus Ledong V2"
@@ -31,49 +31,195 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "mpython",
+              "packager": "esp32",
               "name": "esp32-arduino-libs",
-              "version": "idf-release_v5.4-2f7dcd86-v1"
+              "version": "idf-release_v5.5-8410210c-v2-cn"
             },
             {
-              "packager": "mpython",
+              "packager": "esp32",
               "name": "esp-x32",
-              "version": "2411"
+              "version": "2507-cn"
             },
             {
-              "packager": "mpython",
+              "packager": "esp32",
               "name": "xtensa-esp-elf-gdb",
-              "version": "14.2_20240403"
+              "version": "16.3_20250913-cn"
             },
             {
-              "packager": "mpython",
+              "packager": "esp32",
               "name": "esp-rv32",
-              "version": "2411"
+              "version": "2507-cn"
             },
             {
-              "packager": "mpython",
+              "packager": "esp32",
               "name": "riscv32-esp-elf-gdb",
-              "version": "14.2_20240403"
+              "version": "16.3_20250913-cn"
             },
             {
-              "packager": "mpython",
+              "packager": "esp32",
               "name": "openocd-esp32",
-              "version": "v0.12.0-esp32-20241016"
+              "version": "v0.12.0-esp32-20250707-cn"
             },
             {
-              "packager": "mpython",
+              "packager": "esp32",
               "name": "esptool_py",
-              "version": "4.9.dev3"
+              "version": "5.1.0-cn"
             },
             {
-              "packager": "mpython",
+              "packager": "esp32",
               "name": "mkspiffs",
-              "version": "0.2.3"
+              "version": "0.2.3-cn"
             },
             {
-              "packager": "mpython",
+              "packager": "esp32",
               "name": "mklittlefs",
-              "version": "3.0.0-gnu12-dc7f933"
+              "version": "4.0.2-db0513a-cn"
+            },
+            {
+              "packager": "arduino",
+              "name": "dfu-util",
+              "version": "0.11.0-arduino5"
+            }
+          ]
+        },
+        {
+          "name": "mPython",
+          "architecture": "esp32",
+          "version": "3.3.3-cn",
+          "category": "ESP32",
+          "url": "https://github.com/labplus-cn/arduino-esp32/releases/download/v3.3.3/arduino-esp32_3.3.3.zip",
+          "archiveFileName": "arduino-esp32_3.3.3.zip",
+          "checksum": "SHA-256:fc82f7eb636bc06c40550cd30562ca6330ed8bcac152af0e022e966b25c04201",
+          "size": "20761697",
+          "help": {
+            "online": ""
+          },
+          "boards": [
+            {
+              "name": "mPython v3"
+            },
+            {
+              "name": "labplus Ledong V2"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "name": "esp32-arduino-libs",
+              "version": "idf-release_v5.5-f1a1df9b-v3-cn"
+            },
+            {
+              "packager": "esp32",
+              "name": "esp-x32",
+              "version": "2507-cn"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp-elf-gdb",
+              "version": "16.3_20250913-cn"
+            },
+            {
+              "packager": "esp32",
+              "name": "esp-rv32",
+              "version": "2507-cn"
+            },
+            {
+              "packager": "esp32",
+              "name": "riscv32-esp-elf-gdb",
+              "version": "16.3_20250913-cn"
+            },
+            {
+              "packager": "esp32",
+              "name": "openocd-esp32",
+              "version": "v0.12.0-esp32-20250707-cn"
+            },
+            {
+              "packager": "esp32",
+              "name": "esptool_py",
+              "version": "5.1.0-cn"
+            },
+            {
+              "packager": "esp32",
+              "name": "mkspiffs",
+              "version": "0.2.3-cn"
+            },
+            {
+              "packager": "esp32",
+              "name": "mklittlefs",
+              "version": "4.0.2-db0513a-cn"
+            },
+            {
+              "packager": "arduino",
+              "name": "dfu-util",
+              "version": "0.11.0-arduino5"
+            }
+          ]
+        },
+        {
+          "name": "mPython",
+          "architecture": "esp32",
+          "version": "3.3.2-cn",
+          "category": "ESP32",
+          "url": "https://github.com/labplus-cn/arduino-esp32/releases/download/v3.2.0/arduino-esp32_3.2.0.zip",
+          "archiveFileName": "arduino-esp32_3.2.0.zip",
+          "checksum": "SHA-256:b8a4f30dc89454777224f5f668b303677c5dc85eeeaab36cfe7b948efacd0199",
+          "size": "20584365",
+          "help": {
+            "online": ""
+          },
+          "boards": [
+            {
+              "name": "mPython v3"
+            },
+            {
+              "name": "labplus Ledong V2"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "name": "esp32-arduino-libs",
+              "version": "idf-release_v5.5-07e9bf49-v1-cn"
+            },
+            {
+              "packager": "esp32",
+              "name": "esp-x32",
+              "version": "2507-cn"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp-elf-gdb",
+              "version": "16.3_20250913-cn"
+            },
+            {
+              "packager": "esp32",
+              "name": "esp-rv32",
+              "version": "2507-cn"
+            },
+            {
+              "packager": "esp32",
+              "name": "riscv32-esp-elf-gdb",
+              "version": "16.3_20250913-cn"
+            },
+            {
+              "packager": "esp32",
+              "name": "openocd-esp32",
+              "version": "v0.12.0-esp32-20250707-cn"
+            },
+            {
+              "packager": "esp32",
+              "name": "esptool_py",
+              "version": "5.1.0-cn"
+            },
+            {
+              "packager": "esp32",
+              "name": "mkspiffs",
+              "version": "0.2.3-cn"
+            },
+            {
+              "packager": "esp32",
+              "name": "mklittlefs",
+              "version": "4.0.2-db0513a-cn"
             },
             {
               "packager": "arduino",
