@@ -14,10 +14,10 @@
           "architecture": "esp32",
           "version": "3.3.4-cn",
           "category": "ESP32",
-          "url": "https://dl.espressif.cn/github_assets/espressif/arduino-esp32/releases/download/3.3.4/esp32-3.3.4.zip",
-          "archiveFileName": "esp32-3.3.4.zip",
-          "checksum": "SHA-256:b9793a76ff067fb064c7b934bfc9bb19a00fa9ea4474597d6f65385ebd6a3a60",
-          "size": "27299511",
+          "url": "https://github.com/labplus-cn/arduino-esp32/releases/download/v3.3.4/arduino-esp32_3.3.4.zip",
+          "archiveFileName": "arduino-esp32_3.3.4.zip",
+          "checksum": "SHA-256:1df51ae8f3a7db8b4eab033a9e1391a1bdafca1d353b9d38f9072172e617ad32",
+          "size": "20793849",
           "help": {
             "online": ""
           },
@@ -105,10 +105,10 @@
           "architecture": "esp32",
           "version": "3.3.3-cn",
           "category": "ESP32",
-          "url": "https://dl.espressif.cn/github_assets/espressif/arduino-esp32/releases/download/3.3.3/esp32-3.3.3.zip",
-          "archiveFileName": "esp32-3.3.3.zip",
-          "checksum": "SHA-256:6402c2ec7b1f764305fa2904a9b7671fee830f9e63e22c510cad01f7e4c70967",
-          "size": "27267656",
+          "url": "https://github.com/labplus-cn/arduino-esp32/releases/download/v3.3.3/arduino-esp32_3.3.3.zip",
+          "archiveFileName": "arduino-esp32_3.3.3.zip",
+          "checksum": "SHA-256:fc82f7eb636bc06c40550cd30562ca6330ed8bcac152af0e022e966b25c04201",
+          "size": "20761697",
           "help": {
             "online": ""
           },
@@ -196,10 +196,10 @@
           "architecture": "esp32",
           "version": "3.3.2-cn",
           "category": "ESP32",
-          "url": "https://dl.espressif.cn/github_assets/espressif/arduino-esp32/releases/download/3.3.2/esp32-3.3.2.zip",
-          "archiveFileName": "esp32-3.3.2.zip",
-          "checksum": "SHA-256:8195ad45a35e0ebabe0985503f97bcfa4fe923b4aec4944ec0f2f84e4eb4acab",
-          "size": "27183358",
+          "url": "https://github.com/labplus-cn/arduino-esp32/releases/download/v3.2.0/arduino-esp32_3.2.0.zip",
+          "archiveFileName": "arduino-esp32_3.2.0.zip",
+          "checksum": "SHA-256:b8a4f30dc89454777224f5f668b303677c5dc85eeeaab36cfe7b948efacd0199",
+          "size": "20584365",
           "help": {
             "online": ""
           },
