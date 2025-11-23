@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "mpython",
-      "maintainer": "Espressif Systems",
+      "maintainer": "labplus mpython team",
       "websiteURL": "https://github.com/labplus-cn/arduino-esp32",
       "email": "jiangzhaohui@labplus.cn",
       "help": {
@@ -23,7 +23,7 @@
           },
           "boards": [
             {
-              "name": "mPython v3"
+              "name": "mPython V3"
             },
             {
               "name": "labplus Ledong V2"
@@ -96,7 +96,7 @@
           },
           "boards": [
             {
-              "name": "mPython v3"
+              "name": "mPython V3"
             },
             {
               "name": "labplus Ledong V2"
@@ -169,7 +169,7 @@
           },
           "boards": [
             {
-              "name": "mPython v3"
+              "name": "mPython V3"
             },
             {
               "name": "labplus Ledong V2"
