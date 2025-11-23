@@ -23,28 +23,10 @@
           },
           "boards": [
             {
-              "name": "ESP32 Dev Board"
+              "name": "mPython v3"
             },
             {
-              "name": "ESP32-C3 Dev Board"
-            },
-            {
-              "name": "ESP32-C6 Dev Board"
-            },
-            {
-              "name": "ESP32-H2 Dev Board"
-            },
-            {
-              "name": "ESP32-P4 Dev Board"
-            },
-            {
-              "name": "ESP32-S2 Dev Board"
-            },
-            {
-              "name": "ESP32-S3 Dev Board"
-            },
-            {
-              "name": "Arduino Nano ESP32"
+              "name": "labplus Ledong V2"
             }
           ],
           "toolsDependencies": [
@@ -114,28 +96,10 @@
           },
           "boards": [
             {
-              "name": "ESP32 Dev Board"
+              "name": "mPython v3"
             },
             {
-              "name": "ESP32-C3 Dev Board"
-            },
-            {
-              "name": "ESP32-C6 Dev Board"
-            },
-            {
-              "name": "ESP32-H2 Dev Board"
-            },
-            {
-              "name": "ESP32-P4 Dev Board"
-            },
-            {
-              "name": "ESP32-S2 Dev Board"
-            },
-            {
-              "name": "ESP32-S3 Dev Board"
-            },
-            {
-              "name": "Arduino Nano ESP32"
+              "name": "labplus Ledong V2"
             }
           ],
           "toolsDependencies": [
@@ -205,28 +169,10 @@
           },
           "boards": [
             {
-              "name": "ESP32 Dev Board"
+              "name": "mPython v3"
             },
             {
-              "name": "ESP32-C3 Dev Board"
-            },
-            {
-              "name": "ESP32-C6 Dev Board"
-            },
-            {
-              "name": "ESP32-H2 Dev Board"
-            },
-            {
-              "name": "ESP32-P4 Dev Board"
-            },
-            {
-              "name": "ESP32-S2 Dev Board"
-            },
-            {
-              "name": "ESP32-S3 Dev Board"
-            },
-            {
-              "name": "Arduino Nano ESP32"
+              "name": "labplus Ledong V2"
             }
           ],
           "toolsDependencies": [
