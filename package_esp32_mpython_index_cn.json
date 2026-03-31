@@ -32,6 +32,11 @@
           "toolsDependencies": [
             {
               "packager": "mpython",
+              "name": "esp32-arduino-libs",
+              "version": "idf-release_v5.5-8410210c-v2-cn"
+            },
+            {
+              "packager": "mpython",
               "version": "esp-12.2.0_20230208-cn",
               "name": "xtensa-esp32-elf-gcc"
             },
@@ -54,6 +59,68 @@
         }
       ],
       "tools": [
+        {
+          "name": "esp32-arduino-libs",
+          "version": "idf-release_v5.5-8410210c-v2-cn",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://dl.espressif.cn/github_assets/espressif/arduino-esp32/releases/download/3.3.4/esp32-3.3.4-libs.zip",
+              "archiveFileName": "esp32-3.3.4-libs.zip",
+              "checksum": "SHA-256:ebcc69e1db0681147c3ef145f4cd5a063a7d3cb87820ddf57e2a04e363e42223",
+              "size": "449287409"
+            },
+            {
+              "host": "x86_64-mingw32",
+              "url": "https://dl.espressif.cn/github_assets/espressif/arduino-esp32/releases/download/3.3.4/esp32-3.3.4-libs.zip",
+              "archiveFileName": "esp32-3.3.4-libs.zip",
+              "checksum": "SHA-256:ebcc69e1db0681147c3ef145f4cd5a063a7d3cb87820ddf57e2a04e363e42223",
+              "size": "449287409"
+            },
+            {
+              "host": "arm64-apple-darwin",
+              "url": "https://dl.espressif.cn/github_assets/espressif/arduino-esp32/releases/download/3.3.4/esp32-3.3.4-libs.zip",
+              "archiveFileName": "esp32-3.3.4-libs.zip",
+              "checksum": "SHA-256:ebcc69e1db0681147c3ef145f4cd5a063a7d3cb87820ddf57e2a04e363e42223",
+              "size": "449287409"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://dl.espressif.cn/github_assets/espressif/arduino-esp32/releases/download/3.3.4/esp32-3.3.4-libs.zip",
+              "archiveFileName": "esp32-3.3.4-libs.zip",
+              "checksum": "SHA-256:ebcc69e1db0681147c3ef145f4cd5a063a7d3cb87820ddf57e2a04e363e42223",
+              "size": "449287409"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "https://dl.espressif.cn/github_assets/espressif/arduino-esp32/releases/download/3.3.4/esp32-3.3.4-libs.zip",
+              "archiveFileName": "esp32-3.3.4-libs.zip",
+              "checksum": "SHA-256:ebcc69e1db0681147c3ef145f4cd5a063a7d3cb87820ddf57e2a04e363e42223",
+              "size": "449287409"
+            },
+            {
+              "host": "i686-pc-linux-gnu",
+              "url": "https://dl.espressif.cn/github_assets/espressif/arduino-esp32/releases/download/3.3.4/esp32-3.3.4-libs.zip",
+              "archiveFileName": "esp32-3.3.4-libs.zip",
+              "checksum": "SHA-256:ebcc69e1db0681147c3ef145f4cd5a063a7d3cb87820ddf57e2a04e363e42223",
+              "size": "449287409"
+            },
+            {
+              "host": "aarch64-linux-gnu",
+              "url": "https://dl.espressif.cn/github_assets/espressif/arduino-esp32/releases/download/3.3.4/esp32-3.3.4-libs.zip",
+              "archiveFileName": "esp32-3.3.4-libs.zip",
+              "checksum": "SHA-256:ebcc69e1db0681147c3ef145f4cd5a063a7d3cb87820ddf57e2a04e363e42223",
+              "size": "449287409"
+            },
+            {
+              "host": "arm-linux-gnueabihf",
+              "url": "https://dl.espressif.cn/github_assets/espressif/arduino-esp32/releases/download/3.3.4/esp32-3.3.4-libs.zip",
+              "archiveFileName": "esp32-3.3.4-libs.zip",
+              "checksum": "SHA-256:ebcc69e1db0681147c3ef145f4cd5a063a7d3cb87820ddf57e2a04e363e42223",
+              "size": "449287409"
+            }
+          ]
+        },
         {
           "name": "xtensa-esp32-elf-gcc",
           "version": "esp-12.2.0_20230208-cn",
