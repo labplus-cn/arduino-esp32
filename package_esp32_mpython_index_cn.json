@@ -14,10 +14,10 @@
           "architecture": "esp32",
           "version": "3.0.0",
           "category": "ESP32",
-          "url": "https://github.com/labplus-cn/arduino-esp32/releases/download/v3.0.0/arduino-esp32_3.0.0.zip",
+          "url": "https://github.com/labplus-cn/arduino-esp32/releases/download/v3.0.0/esp32-3.0.0.zip",
           "archiveFileName": "arduino-esp32_3.0.0.zip",
-          "checksum": "SHA-256:4ab034ad348eba4e52d49e462f0d53aa44911f2bd20f0e38c0e249708b8cb20c",
-          "size": "117294769",
+          "checksum": "SHA-256:6006bf6a2c2323b530f6d4b3148379b9129a9b9ffa73ebbb6e5ddbc80eb08c7e",
+          "size": "19817866",
           "help": {
             "online": ""
           },
