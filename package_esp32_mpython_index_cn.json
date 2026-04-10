@@ -15,9 +15,9 @@
           "version": "3.0.0",
           "category": "ESP32",
           "url": "https://github.com/labplus-cn/arduino-esp32/releases/download/v3.0.0/esp32-3.0.0.zip",
-          "archiveFileName": "arduino-esp32_3.0.0.zip",
-          "checksum": "SHA-256:6006bf6a2c2323b530f6d4b3148379b9129a9b9ffa73ebbb6e5ddbc80eb08c7e",
-          "size": "19817866",
+          "archiveFileName": "esp32_3.0.0.zip",
+          "checksum": "SHA-256:83458811e6c8095bce60ad36934a2e12b2b509c82290e7af7ce2af1ea771a40e",
+          "size": "39635170 ",
           "help": {
             "online": ""
           },
